@@ -11,7 +11,7 @@ Lumache has its documentation hosted on Read the Docs.
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
-Hello, this is added to the group
+Hello, this is added to the group chat
 
 .. note::
 
